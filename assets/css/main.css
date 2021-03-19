@@ -2997,7 +2997,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				padding: 6em 2em 3em 2em;
 				width: 30%;
 			}
 
@@ -3057,7 +3057,7 @@ input, select, textarea {
 				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
-				padding: 6em 4em;
+				padding: 6em 3em;
 				position: relative;
 				text-align: center;
 				top: auto;
@@ -3219,3 +3219,12 @@ input, select, textarea {
 			}
 
 	}
+
+header, footer{
+	font-size: x-large;
+	text-align: center
+}
+header, footer img{
+	margin-left: auto;
+	margin-right: auto;
+}
